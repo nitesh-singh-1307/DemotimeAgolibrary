@@ -12,6 +12,6 @@ Add it in your root build.gradle at the end of repositories:
   
   Add the dependency
   
-  dependencies {
-	        implementation 'com.github.popnitesh:DemotimeAgolibrary:Tag'
+ dependencies {
+	        implementation 'com.github.popnitesh:DemotimeAgolibrary:0.1.0'
 	}
